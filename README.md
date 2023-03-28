@@ -9,7 +9,7 @@
 
 ### If You Are Using Older Version Try To Downgrade Gradle Version 
 
-### It will work smooth For you , Enjoy ! :D
+ 
 
-## Screenshots :
+ 
 
